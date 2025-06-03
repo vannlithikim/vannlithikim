@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=Where%20Code%20Meets%20Creativity&descAlign=50&descAlignY=65" width="100%"/>
 </div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm [Your Name]
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm VANNLITHI KIM
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🎨+Creative+Problem+Solver;🌟+Tech+Innovator;💡+AI+Enthusiast;🔥+Open+Source+Contributor;⚡+Always+Learning+New+Things" alt="Typing SVG" />
@@ -61,9 +61,9 @@ hobbies: ["Gaming 🎮", "Photography 📸", "Traveling ✈️", "Coffee ☕"]
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<!--     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> -->
 </p>
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> Frontend Development
